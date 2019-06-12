@@ -1,12 +1,14 @@
-# Welcome SouthWest Internet of Things Network Project
+# SouthWest Internet of Things Network Project
 
-## Exaplanation
+## Explanation
+
+This is where the explanation goes.
 
 [![Explainer Video](/images/video-shot.png)](https://www.youtube.com/watch?v=Q2So47rLOqgE "Things Network")
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We propose a Southwest Network from Cornwall up that encomposes all part of Cornwall and across all disciplines. From Farming to Health.
 
 Syntax highlighted code block
 
@@ -20,7 +22,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
@@ -29,4 +30,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you would like to contact us then please? [wo@hi9.io](mailto:wo@hi9.io) and we would love to help some more.
