@@ -8,7 +8,7 @@ This is where the explanation goes.
 
 ### Markdown
 
-We propose a Southwest Network from Cornwall up that encomposes all part of Cornwall and across all disciplines. From Farming to Health.
+SWIN is looking to revultionise the use of smart technologies across the Southwest. We want to set-up a a wireless sensor network from Cornwall up, offering smart technology that can digitally transform businesses in both the public & private sectors. Potential areas of benefit range from the Agritech industry to Healthcare; Council to private enterprise.
 
 Syntax highlighted code block
 
