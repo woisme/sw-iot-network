@@ -4,7 +4,7 @@
 
 Enabling low power Devices to use long range Gateways to connect to an  decentralized Network to exchange data with Applications. These Low Powered devices can be powered by a simple small battery for years and operate on a free part of the network.
 
-This can be used across disciplines. Such as below, for free.
+This can be used across disciplines. Such as below, for free. [Signup](http://eepurl.com/guHcQb) to be informed of our first workshop in July to introduce the project.
 
 - Argi Tech
   - Land resource management such as moisture
@@ -29,4 +29,4 @@ Click the Image below for an Explainer Video
 
 ## Contact
 
-If you would like to contact us then please? [wo@hi9.io](mailto:wo@hi9.io) or [wo@hi9.io](tel:01736 732324)  and we would love to help some more.
+If you would like to contact us? [wo@hi9.io](mailto:wo@hi9.io) or [w01736 7323234](tel:01736 732324)  and we would love to help some more.
