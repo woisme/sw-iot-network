@@ -4,7 +4,7 @@
 
 SWIN will enable Low Power devices to use long-range gateways to connect to a decentralised network to exchange data with applications. These Low Powered devices can run on a simple small battery for years and operate on a free part of the network.
 
-We are looking to work with interested partners to roll out this network which works for the Southwest from Cornwall up.
+We are looking to work with interested partners to roll out this network which will be owned by, operated and works for the Southwest from Cornwall up.
 
 ## [Signup](http://eepurl.com/guHcQb) to be informed about our first workshop in July
 
