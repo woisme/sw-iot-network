@@ -15,12 +15,12 @@ This means that multiple industries can take advantage of its transformational p
 - Health
   - Heart Monitors in Homes
 - Council Services
-  – Street Lamps
-  – Bins
+  - Street Lamps
+  - Bins
 - Environmental
-  – Tracking habitats and wildlife
+  - Tracking habitats and wildlife
 - Social Services
-  – Detecting a Falls from a Wearable Sensor as a broch
+  - Detecting a Falls from a Wearable Sensor as a broch
 
 ## [Signup](http://eepurl.com/guHcQb) to be informed about our first workshop in July.
 
