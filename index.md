@@ -22,7 +22,7 @@ This means that multiple industries can take advantage of its transformational p
 - Social Services
   – Detecting a Falls from a Wearable Sensor as a broch
 
-[Signup](http://eepurl.com/guHcQb) to be informed about our first workshop in July.
+## [Signup](http://eepurl.com/guHcQb) to be informed about our first workshop in July.
 
 [![Explainer Video](/images/video-shot.png)](https://www.youtube.com/watch?v=Q2So47rLOqgE "Things Network")
 
