@@ -22,11 +22,9 @@ This means that multiple industries can take advantage of its transformational p
   - Street Lamps
   - Bins
 - Environmental
-  - Tracking habitats and wildlife
+  - Tracking Habitats and Wildlife
 - Social Services
   - Detecting a Falls from a Wearable Sensor as a broch
-
-
 
 [![Explainer Video](/images/video-shot.png)](https://www.youtube.com/watch?v=Q2So47rLOqgE "Things Network")
 
