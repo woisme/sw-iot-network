@@ -27,11 +27,6 @@ Click the Image below for an Explainer Video
 
 [![Explainer Video](/images/video-shot.png)](https://www.youtube.com/watch?v=Q2So47rLOqgE "Things Network")
 
-## Contact Us
-
-Company Hi9
-Please email us on [wo@hi9.io](mailto:wo@hi9.io)
-
-### Support or Contact
+## Contact
 
 If you would like to contact us then please? [wo@hi9.io](mailto:wo@hi9.io) or [wo@hi9.io](tel:01736 732324)  and we would love to help some more.
