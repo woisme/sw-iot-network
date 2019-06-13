@@ -4,6 +4,9 @@
 
 This is where the explanation goes.
 
+
+Click the Image below for an Explainer Video
+
 [![Explainer Video](/images/video-shot.png)](https://www.youtube.com/watch?v=Q2So47rLOqgE "Things Network")
 
 ## Contact Us
