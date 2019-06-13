@@ -2,8 +2,26 @@
 
 ## Explanation
 
-This is where the explanation goes.
+Enabling low power Devices to use long range Gateways to connect to an  decentralized Network to exchange data with Applications. These Low Powered devices can be powered by a simple small battery for years and operate on a free part of the network.
 
+This can be used across disciplines. Such as below, for free.
+
+- Argi Tech
+  - Land resource management such as moisture
+  - Cattle Management
+- Marine
+  - Sensors on Wind Turbines
+  - Cargo loading from a ship
+- Health
+  - Heart monitors in homes
+- Council Service
+  -- Street Lamps
+  -- Bins
+- Environmental
+  -- Tracking habitats
+  -- Tracking animals
+- Social Services
+  --  Detect a fall from a sensor as a broch
 
 Click the Image below for an Explainer Video
 
