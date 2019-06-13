@@ -6,6 +6,11 @@ This is where the explanation goes.
 
 [![Explainer Video](/images/video-shot.png)](https://www.youtube.com/watch?v=Q2So47rLOqgE "Things Network")
 
+## Contact Us
+
+Company Hi9
+Please email us on [wo@hi9.io](mailto:wo@hi9.io)
+
 ### Markdown
 
 SWIN is looking to revultionise the use of smart technologies across the Southwest. We want to set-up a a wireless sensor network from Cornwall up, offering smart technology that can digitally transform businesses in both the public & private sectors. Potential areas of benefit range from the Agritech industry to Healthcare; Council to private enterprise.
