@@ -16,9 +16,6 @@ We are Already Working with Digital Catapult to create an IoT network in the Sou
 
 [![Smartline](/images/smartline.jpeg)](https://www.smartline.org.uk// "Smartline")
 
-
-
-
 This means that multiple industries can take advantage of its transformational potential for free.
 
 - Argi Tech
