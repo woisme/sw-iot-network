@@ -10,7 +10,14 @@ We are Already Working with Digital Catapult to create an IoT network in the Sou
 
 [![Digital Catapult](/images/Digital-Catapult.jpeg)](https://www.digicatapult.org.uk/ "Digital Catapult")
 
-[Signup](http://eepurl.com/guHcQb) to be informed about our first workshop in July.
+[![Cornwall Agritech](/images/agritech.jpeg)](https://www.agritechcornwall.co.uk// "Cornwall Agritech")
+
+[![Software Cornwall](/images/swc.jpeg)](hhttps://www.softwarecornwall.org// "Software Cornwall")
+
+[![Smartline](/images/smartline.jpeg)](https://www.smartline.org.uk// "Smartline")
+
+
+
 
 This means that multiple industries can take advantage of its transformational potential for free.
 
