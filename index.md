@@ -6,7 +6,9 @@ SWIN will enable Low Power devices to use long-range gateways to connect to a de
 
 We are looking to work with interested partners to roll out this network. It will be owned, operated by and work for the Southwest.
 
-We are Already Working with Digital Catapult to create an IoT network in the Southwest
+We are Already Working with these partners to create an IoT network in the Southwest
+
+## Partners
 
 [![Digital Catapult](/images/Digital-Catapult.jpeg)](https://www.digicatapult.org.uk/ "Digital Catapult")
 
