@@ -18,6 +18,8 @@ We are Already Working with these partners to create an IoT network in the South
 
 [![Smartline](/images/smartline.jpeg)](https://www.smartline.org.uk// "Smartline")
 
+[![Marine Hub Cornwall](/images/marine-i.jpeg)](https://www.https://marinehubcornwall.co.uk// "Marine Hub Cornwall")
+
 This means that multiple industries can take advantage of its transformational potential for free.
 
 - Argi Tech
